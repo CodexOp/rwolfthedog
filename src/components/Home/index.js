@@ -118,7 +118,7 @@ export default function Home() {
             </div>
             <div className="titleInfo">
 
-            Welcome to the official page of the Rowlf the Dog Token ($Rowlf)! <br></br>Inspired by everyone's favorite piano-playing Muppet, <br></br> RDT is not only an homage to this iconic character but is also a fun and <br></br> innovative way to participate in the crypto community             
+            Welcome to the official page of the Rowlf the Dog Token ($Rowlf)! <br></br>Inspired by everyone's favorite piano-playing Muppet, <br></br> Rowlf is not only an homage to this iconic character but is also a fun and <br></br> innovative way to participate in the crypto community             
             </div>
             <a href="https://app.uniswap.org/#/swap?&chain=mainnet&use=v2&outputCurrency=0x0e902e72618d5b7fdd2ff57d3a27c25ff2d92969"><div className="btn1">Buy&nbsp;Token</div></a>
           </div>
@@ -142,7 +142,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="aboutMainTxt1">
-              Welcome to the official page of the Rowlf the Dog Token (RDT)! Inspired by everyone's favorite piano-playing Muppet, RDT is not only an homage to this iconic character but is also a fun and innovative way to participate in the crypto community. Just like Rowlf bridges the gap between canine and human, RDT aims to bridge the crypto world with that of entertainment and nostalgia.
+              Welcome to the official page of the Rowlf the Dog Token (ROWLF)! Inspired by everyone's favorite piano-playing Muppet, ROWLF is not only an homage to this iconic character but is also a fun and innovative way to participate in the crypto community. Just like Rowlf bridges the gap between canine and human, ROWLF aims to bridge the crypto world with that of entertainment and nostalgia.
               </div>
              
               <img className="sparkleIcon4" src={sparkleIcon4} alt="sparkle" />
@@ -159,7 +159,7 @@ export default function Home() {
               </div>
             </div>
             <div className="aboutMainTxt1">
-            Forget the moon; we're heading to the Muppet Show! RDT, or Rowlf the Dog Meme Token, combines the whimsy of everyone's favorite canine Muppet with the wild roller-coaster of the meme token world. Who said finance can't be fun?
+            Forget the moon; we're heading to the Muppet Show! Rowlf, or Rowlf the Dog Meme Token, combines the whimsy of everyone's favorite canine Muppet with the wild roller-coaster of the meme token world. Who said finance can't be fun?
 
             </div>
             <div className="aboutMainTxt2 aaaaaa">
